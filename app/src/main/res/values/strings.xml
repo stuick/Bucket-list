@@ -4,4 +4,7 @@
     <string name="text_view_text_food">Food</string>
     <string name="text_view_text_travel">travel</string>
     <string name="text_view_text_lifestyle">Lifestyle</string>
+    <string name="text_view_text_places_title">Places to visit</string>
+    <string name="text_view_text_title_food_to_try">Food to Try</string>
+    <string name="text_view_text_title_lifestyle">Lifestyle</string>
 </resources>

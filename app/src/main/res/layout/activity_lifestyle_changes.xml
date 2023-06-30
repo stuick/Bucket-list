@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="12dp"
-        android:text="Lifestyle"
+        android:text="@string/text_view_text_title_lifestyle"
         android:textColor="#555555"
         android:textSize="20sp" />
 
