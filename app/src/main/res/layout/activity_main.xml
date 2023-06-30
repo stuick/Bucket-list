@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_margin="16dp"
-        android:text="My Bucket List"
+        android:text="@string/text_view_title"
         android:textColor="@color/material_dynamic_tertiary50"
         android:textSize="24sp"
         android:layout_marginBottom="24dp"/>
@@ -45,7 +45,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_margin="8dp"
-                android:text="Food"
+                android:text="@string/text_view_text_food"
                 android:textSize="16sp" />
 
         </LinearLayout>
@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_margin="8dp"
-                android:text="travel"
+                android:text="@string/text_view_text_travel"
                 android:textSize="16sp" />
 
         </LinearLayout>
@@ -119,7 +119,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_margin="8dp"
-                android:text="Lifestyle"
+                android:text="@string/text_view_text_lifestyle"
                 android:textSize="16sp" />
 
         </LinearLayout>

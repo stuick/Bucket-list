@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Bucket List App</string>
+    <string name="text_view_title">My Bucket List</string>
+    <string name="text_view_text_food">Food</string>
+    <string name="text_view_text_travel">travel</string>
+    <string name="text_view_text_lifestyle">Lifestyle</string>
 </resources>
